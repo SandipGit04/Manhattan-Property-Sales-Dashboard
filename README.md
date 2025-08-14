@@ -40,12 +40,13 @@ The primary objective is to help buyers, investors, and policymakers understand 
 
 ## 🔍 Interactive Filters
 ### The dashboard includes filters to allow users to customize insights:
-**Property Age
-Property Type
-Month
-Tax Class
-Building Class**
+**● Property Age  
+● Property Type  
+● Month  
+● Tax Class  
+● Building Class**
 
+## 👀 Dashboard Preview
 ![**Property Sales**](https://raw.githubusercontent.com/SandipGit04/Manhattan-Property-Sales-Dashboard/refs/heads/main/Dashboard%20Image/Manhattan%20Property%20Sales%20Dashboard.png)  
 
 ## 📌 How to Use the Dashboard
