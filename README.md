@@ -1,4 +1,4 @@
-# Manhattan Property Sales Analysis – 2023
+# *Manhattan Property Sales Analysis – 2023*
 
 ## 📌 Project Overview
 #### This project provides an in-depth analysis of Manhattan’s property sales for the year 2023, highlighting key market trends and patterns.
