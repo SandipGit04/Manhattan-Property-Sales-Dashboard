@@ -2,7 +2,8 @@
 
 ## 📌 Project Overview
 #### This project provides an in-depth analysis of Manhattan’s property sales for the year 2023, highlighting key market trends and patterns.
-#### The analysis focuses on:  **⬜ Sales performance across different tax classes.  
+#### The analysis focuses on:  
+**⬜ Sales performance across different tax classes.  
 ⬜ Seasonal and monthly sales fluctuations.  
 ⬜ Buyer preferences by property type and category.  
 ⬜ Demographic influence (age group) on purchases.  
