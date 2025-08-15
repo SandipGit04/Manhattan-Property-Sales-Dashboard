@@ -65,6 +65,6 @@ The primary objective is to help buyers, investors, and policymakers understand 
 ## 📱 Contact & Support
 For questions or support, reach out via:
 
-📩 Email: [kundusandip004@gmail.com](mailto:kundusandip004@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/sandipin04](https://www.linkedin.com/in/sandipin04/)  
-𝕏 Twitter (X): [@SandipX04](https://x.com/SandipX04)  
+📩 Email : [kundusandip004@gmail.com](mailto:kundusandip004@gmail.com)  
+🔗 LinkedIn : [linkedin.com/in/sandipin04](https://www.linkedin.com/in/sandipin04/)  
+𝕏 Twitter : [@SandipX04](https://x.com/SandipX04)  
