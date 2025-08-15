@@ -38,6 +38,8 @@ The primary objective is to help buyers, investors, and policymakers understand 
 - Examines the distribution of property sales across different age groups of buyers.
 - Reveals the most active buyer demographics.
 
+---
+
 ## 🔍 Interactive Filters
 ### The dashboard includes filters to allow users to customize insights:
 **● Property Age  
@@ -46,13 +48,18 @@ The primary objective is to help buyers, investors, and policymakers understand 
 ● Tax Class  
 ● Building Class**
 
+---
+
 ## 👀 Dashboard Preview
 ![**Property Sales**](https://raw.githubusercontent.com/SandipGit04/Manhattan-Property-Sales-Dashboard/refs/heads/main/Dashboard%20Image/Manhattan%20Property%20Sales%20Dashboard.png)  
+
+---
 
 ## 📌 How to Use the Dashboard
 - Download the Excel file from this repository.
 - Open in Excel (Desktop version recommended for full interactivity).
 - Use slicers/filters to explore data by month, property type, tax class, etc.
+
 ---
 
 ## 📱 Contact & Support
