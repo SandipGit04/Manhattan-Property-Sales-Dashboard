@@ -1,4 +1,4 @@
-# *Manhattan Property Sales Analysis – 2023*
+# *🏠 Manhattan Property Sales Analysis 2023 Dashboard - Excel Project*
 
 ## 📌 Project Overview
 #### This project provides an in-depth analysis of Manhattan’s property sales for the year 2023, highlighting key market trends and patterns.
@@ -50,7 +50,7 @@ The primary objective is to help buyers, investors, and policymakers understand 
 
 ---
 
-## 👀 Dashboard Preview
+## 🖼 Dashboard Preview
 ![**Property Sales**](https://raw.githubusercontent.com/SandipGit04/Manhattan-Property-Sales-Dashboard/refs/heads/main/Dashboard%20Image/Manhattan%20Property%20Sales%20Dashboard.png)  
 
 ---
